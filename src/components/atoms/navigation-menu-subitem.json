@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_atoms_navigation_menu_subitems",
+  "info": {
+    "displayName": "Navigation Menu Subitem",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "subitem_title": {
+      "type": "string"
+    },
+    "subitem_link": {
+      "type": "string"
+    }
+  }
+}

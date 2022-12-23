@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_careers_sections",
+  "info": {
+    "displayName": "careers section",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "cta_text": {
+      "type": "string"
+    },
+    "cta_link": {
+      "type": "string"
+    }
+  }
+}
