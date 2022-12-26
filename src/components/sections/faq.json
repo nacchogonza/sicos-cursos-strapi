@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_sections_faqs",
+  "info": {
+    "displayName": "FAQ",
+    "icon": "pen",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "pregunta": {
+      "displayName": "pregunta",
+      "type": "component",
+      "repeatable": true,
+      "component": "atoms.pregunta"
+    }
+  }
+}

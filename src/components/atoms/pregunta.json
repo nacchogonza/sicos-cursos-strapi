@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_atoms_preguntas",
+  "info": {
+    "displayName": "pregunta",
+    "icon": "arrow-alt-circle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

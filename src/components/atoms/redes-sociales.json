@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_atoms_redes_sociales",
+  "info": {
+    "displayName": "redes_sociales",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "nombre": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

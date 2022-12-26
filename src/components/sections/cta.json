@@ -1,7 +1,8 @@
 {
-  "collectionName": "components_sections_careers_sections",
+  "collectionName": "components_sections_ctas",
   "info": {
-    "displayName": "Careers section",
+    "displayName": "CTA",
+    "icon": "anchor",
     "description": ""
   },
   "options": {},
@@ -9,8 +10,8 @@
     "title": {
       "type": "string"
     },
-    "subtitle": {
-      "type": "string"
+    "description": {
+      "type": "text"
     },
     "cta_text": {
       "type": "string"

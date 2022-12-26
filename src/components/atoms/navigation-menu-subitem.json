@@ -1,7 +1,7 @@
 {
   "collectionName": "components_atoms_navigation_menu_subitems",
   "info": {
-    "displayName": "Navigation Menu Subitem",
+    "displayName": "Menu Item",
     "description": ""
   },
   "options": {},
@@ -11,6 +11,10 @@
     },
     "subitem_link": {
       "type": "string"
+    },
+    "destacado": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
