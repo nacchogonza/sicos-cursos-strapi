@@ -18,6 +18,10 @@
     },
     "cta_link": {
       "type": "string"
+    },
+    "backgroundDefault": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
